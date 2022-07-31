@@ -1,0 +1,86 @@
+h1 {font-family: "Comic sans MS";}
+nav {
+    margin-top: -15px;
+   width: 100%;
+   height: 104px;
+   background-color: #f0932b;
+}
+ul {
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}   
+li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+a {
+    display: block;
+    padding: 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+.modau {
+    background-color: #535c68;
+    width: 100%;
+    height: 150px;
+    margin-top: -25px;
+}
+.about {
+    background-color: #535c68;
+    width: 100%;
+    height: 450px;
+    margin-top: -22px;
+}
+.text {
+    margin-left: 600px;
+    margin-top: -300px;
+    color: #dff9fb;
+}
+.duan {
+    background-color: #bdc2c4;
+    width: 100%;
+    height: 470px;
+    margin-top: -22px;
+}
+.thanhtuu {
+    background-color: #535c68;
+    width: 100%;
+    height: 300px;
+    margin-top: -22px; 
+}
+.text2 {
+    margin-left: 500px;
+    color: #dff9fb;
+}
+.dk {
+    background-color: #bdc2c4;
+    width: 100%;
+    height: 470px;
+    margin-top: -22px;
+}
+
+.kt{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    display: inline-block;
+}
+
+.kt>b{
+    float: left;
+    color: #f0932b;
+    font-size: larger;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.kt>a{
+    text-decoration: none;
+    color: #f0932b;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 1300px;
+
+}
