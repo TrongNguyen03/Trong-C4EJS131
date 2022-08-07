@@ -1,0 +1,14 @@
+.float img{
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+
+.clear img {
+    float: right;
+    width: 400px;
+    height: 300px;
+}
+.clear p {
+    clear: right;
+}
