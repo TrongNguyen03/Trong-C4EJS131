@@ -1,0 +1,40 @@
+* {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 0;
+}
+.headw3 {
+    border: 2px solid white;
+    padding: 10px 10px;
+    height: 55px;
+}
+.headw3 a {
+    float: left;
+}
+.login {
+    margin-left: 90%;
+    border-radius: 4px;
+    padding: 10px 20px;
+    background-color: grey;
+    margin-top: 5px;
+    text-decoration: none;
+    color: white;
+}
+.taskbar {
+    background-color: #2d3436;
+    height: 40px;
+    
+}
+li {
+    display: inline-block;
+    padding-inline: 10px;
+    margin-top: 10px;
+    border: 2px solid #2d3436;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+li :hover {
+    color:  grey;
+}
