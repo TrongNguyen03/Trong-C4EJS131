@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+}
+
+.head {
+    border: 2px;
+    background-color: black;
+    height: 90px;
+}
+.logo {
+    font-size: 20px;
+    display: inline-block;
+    margin: 10px;
+}
+ul {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+  
+}
+li {
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover{
+    color: #74b9ff;
+}
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.nut1 a {
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    padding: 10px 20px;
+}
+.nut2 a {
+    border: 2px solid blueviolet;
+    padding: 10px 20px;
+}
+.hi {
+    border: 1px;
+    background-image: linear-gradient( 180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100% );
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+}
+b {
+    color: white;
+    font-size: 25px;
+}
+h2 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.project {
+    border: 1px;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+    height: 800px;
+
+}
+.anh {
+    width: 300px;
+    height: 200px;
+}
+.chat {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.chat2 {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.sp {
+    width: 299px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.button {
+    font-size: 25px;
+    display: inline-block;
+    margin-top: 50px;
+    border: 2px solid grey;
+    padding: 10px 20px;
+    margin-left: 45%;
+    background-color: gray;
+} 
+.end {
+    border: 1px;
+    background-image: linear-gradient( 180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100% );
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.so a {
+   padding: 30px;   
+}
+.footer {
+    border: 2px;
+    background-color: black;
+    height: 60px;
+    margin-top: -25px;
+}
+.footer p {
+    color: white;
+    display: flex ;
+    justify-content: center;
+}
