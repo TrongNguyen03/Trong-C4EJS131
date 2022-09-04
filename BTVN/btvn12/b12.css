@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    font-size: 20px;
+    background-color: #c7ecee;
+}
+h1 {
+    margin-left: 600px;
+    color: rgb(53, 219, 12);
+}
+#text {
+    margin-left: 650px;
+    color: #ff7979;
+}
+#change {
+    margin-left: 650px;
+}
+#form {
+    margin-left: 590px;
+}
+#submit {
+    margin-left: 100px;
+
+}
+#error {
+    color: brown;
+}
+
+#change:hover, #change:active {background: #ff7979;}
+#nope:hover, #nope:active {background: #ff7979;}
